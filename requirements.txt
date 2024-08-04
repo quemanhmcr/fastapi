@@ -1,3 +1,6 @@
 fastapi
 uvicorn
 google-generativeai
+requests
+os
+time
