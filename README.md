@@ -1,6 +1,6 @@
 # fastapi
 
-To utilize the API, upload your file to any database and then provide the file's URL as input to the API. The API will then return the desired results. Each AI task will be deployed on a dedicated path.
+These APIs are applications built using Gemini Flash 1.5 with "Imposing-context" integrated. To utilize the API, upload your file to any database and then provide the file's URL as input to the API. The API will then return the desired results. Each AI task will be deployed on a dedicated path.
 
 ## Call API Detect Deepfake
 
@@ -28,7 +28,7 @@ callDetectDeepfakeAPI(videoUrl)
     }
   });
 ```
-Output(Deepfake. or Người thật.):
+Output (Deepfake. or Người thật.):
 ```javascript
 Result: Deepfake.
 ```
