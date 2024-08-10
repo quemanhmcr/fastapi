@@ -1,6 +1,6 @@
 # fastapi
 
-To utilize the API, upload your file to any database and then provide the file's URL as input to the API. The API will then return the desired results.
+To utilize the API, upload your file to any database and then provide the file's URL as input to the API. The API will then return the desired results. Each AI task will be deployed on a dedicated path.
 
 ## Call API Detect Deepfake
 
