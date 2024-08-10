@@ -1,4 +1,7 @@
 # fastapi
+
+To utilize the API, upload your file to any database and then provide the file's URL as input to the API. The API will then return the desired results.
+
 ## Call API Detect Deepfake
 
 ```javascript
