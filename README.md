@@ -28,7 +28,7 @@ callDetectDeepfakeAPI(videoUrl)
     }
   });
 ```
-Output:
+Output(Deepfake. or Người thật.):
 ```javascript
 Result: Deepfake.
 ```
