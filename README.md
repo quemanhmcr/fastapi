@@ -5,7 +5,7 @@ These APIs are applications built using Gemini Flash 1.5 with "Imposing-context"
 ## Call API Detect Deepfake
 
 ```javascript
-// Gọi API Speech To Text từ JavaScript
+// Call the Speech To Text API from JavaScript
 async function callDetectDeepfakeAPI(videoUrl) {
   try {
     const response = await fetch(`https://everythingai.onrender.com/detect_deepfake?file_url=${videoUrl}`);
@@ -17,7 +17,7 @@ async function callDetectDeepfakeAPI(videoUrl) {
   }
 }
 
-// Ví dụ sử dụng:
+// Examples of Use:
 const videoUrl = "https://res.cloudinary.com/dqneghcme/video/upload/v1723106326/5_zhofam.mp4";
 const language = "Vietnamese";
 
