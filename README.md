@@ -1,6 +1,7 @@
 # fastapi
 ## Call API Detect Deepfake
-```
+
+```javascript
 // Gọi API Speech To Text từ JavaScript
 async function callDetectDeepfakeAPI(videoUrl) {
   try {
