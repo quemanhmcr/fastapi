@@ -28,3 +28,7 @@ callDetectDeepfakeAPI(videoUrl)
     }
   });
 ```
+Output:
+```javascript
+Result: Deepfake.
+```
