@@ -1,4 +1,4 @@
-# EverythingAI (Technology for training AI tasks without data)
+# EverythingAI (Training AI tasks without data)
 
 These APIs are applications built using Gemini Flash 1.5 with "Imposing-context" integrated. To utilize the API, upload your file to any database and then provide the file's URL as input to the API. The API will then return the desired results. Each AI task will be deployed on a dedicated path.
 
