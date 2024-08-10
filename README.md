@@ -46,7 +46,7 @@ async function callSpeechToTextAPI(audioUrl, language) {
   }
 }
 
-// Ví dụ sử dụng:
+// Examples of Use:
 const audioUrl = "https://res.cloudinary.com/dqneghcme/video/upload/v1723244703/Y2meta.app_-_4_tips_v%C6%B0%E1%BB%A3t_qua_n%E1%BB%97i_s%E1%BB%A3_N%C3%B3i_Ti%E1%BA%BFng_Anh_t%E1%BA%A1i_m%C3%B4i_tr%C6%B0%E1%BB%9Dng_%C4%91a_qu%E1%BB%91c_gia_320_kbps_jfjjat.mp3";
 const language = "Vietnamese";
 
